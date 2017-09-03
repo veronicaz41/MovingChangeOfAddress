@@ -43,3 +43,5 @@ The ultimate change of address checklist for moving in the US.
 
 ### Online services
 - [ ] Netflix
+
+Check out more moving guides on: http://www.wanderful.io
